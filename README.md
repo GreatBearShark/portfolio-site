@@ -1,3 +1,3 @@
 # Hello
 
-Hack N Slashed By: Matt Wood
+Simple portfolio site with bootstrap as the framework.
